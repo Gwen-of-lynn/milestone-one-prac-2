@@ -7,6 +7,9 @@
 
 .kendra-banner{
     background: url("../images/kendra.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
     min-height:360px;
     display: inline-block;
     }
@@ -14,12 +17,18 @@
 /*p1  ^   p2v   p3vv    p4vvv */
 .katie-banner{
     background: url("../images/katie.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
     min-height:360px;
     display:inline-block;
     }
 
 .poppy-banner{
     background: url("../images/poppy.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
     min-height:360px;
     display: inline-block;
     }
